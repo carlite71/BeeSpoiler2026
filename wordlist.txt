@@ -220,7 +220,6 @@ access
 accessible
 accession
 accessory
-accidence
 accident
 accipere
 accipiter
@@ -485,7 +484,6 @@ adhesive
 adhibenda
 adiantaceae
 adiantum
-adience
 adient
 adieu
 adipose
@@ -836,7 +834,6 @@ ahem
 ahorse
 ahoy
 ahriman
-aidance
 aide
 aided
 aidedecamp
@@ -5818,7 +5815,6 @@ caned
 canescent
 canicular
 canid
-canidae
 canine
 caning
 canis
@@ -15460,7 +15456,6 @@ googled
 googling
 googly
 googol
-gook
 goon
 goony
 goop
@@ -16253,7 +16248,6 @@ hangzhou
 hank
 hanker
 hannover
-hanoi
 hanover
 hansard
 hansards
@@ -19444,6 +19438,7 @@ kite
 kites
 kith
 kithless
+kiting
 kitsch
 kitten
 kittenish
@@ -19512,8 +19507,8 @@ knoll
 knot
 knothole
 knotted
+knotting
 knotty
-knout
 know
 knowing
 knowlege
@@ -19539,7 +19534,6 @@ kolami
 kolkhoz
 kolkhoznik
 komondor
-kongo
 koniology
 kook
 kookaburra
@@ -19578,7 +19572,6 @@ krypton
 kuchean
 kudu
 kudzu
-kuki
 kuklux
 kulanapan
 kummel
@@ -21560,7 +21553,6 @@ marten
 martes
 martial
 martially
-martian
 martin
 martinet
 martini
@@ -23244,7 +23236,6 @@ nagged
 nagging
 naggy
 naiad
-naiadaceae
 naiadales
 naias
 naif
@@ -24345,7 +24336,6 @@ ogler
 ogling
 ogre
 ogress
-ohioan
 ohmage
 ohmmeter
 oilcan
@@ -24362,6 +24352,7 @@ oilskins
 oilstone
 oily
 oink
+oinking
 ointer
 ointment
 ojibwa
@@ -35824,6 +35815,7 @@ toilworn
 tokay
 toke
 token
+toking
 tokyo
 told
 toledo
@@ -37286,6 +37278,10 @@ unkindness
 unkink
 unkinking
 unkirid
+unknit
+unknitting
+unknot
+unknotting
 unknowing
 unknown
 unlabeled

@@ -21225,7 +21225,6 @@ mais
 maison
 maitre
 maitreya
-maja
 majeste
 majesty
 majeure
@@ -37267,6 +37266,8 @@ units
 unity
 univalve
 universe
+unjam
+unjamming
 unjust
 unjustly
 unkempt
@@ -37329,6 +37330,7 @@ unmanfully
 unmanly
 unmanned
 unmannered
+unmanning
 unmarred
 unmask
 unmated

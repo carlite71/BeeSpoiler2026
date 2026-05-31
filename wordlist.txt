@@ -1974,6 +1974,7 @@ aqualung
 aquaplane
 aquarium
 aquarius
+aquas
 aquatic
 aquatics
 aquating
@@ -2341,6 +2342,7 @@ ascosporic
 ascot
 ascribe
 ascus
+asea
 asepsis
 aseptic
 asexual
@@ -2373,6 +2375,7 @@ askant
 asked
 askew
 asking
+asks
 aslant
 asleep
 aslope
@@ -2422,6 +2425,7 @@ assassination
 assault
 assaulted
 assay
+assays
 assegai
 assemablage
 assemblage
@@ -2438,6 +2442,7 @@ assertive
 asses
 assess
 assessable
+assesses
 assessment
 assessor
 asset
@@ -2705,6 +2710,7 @@ augustinian
 augustus
 aukland
 auklet
+auks
 aulostomus
 aumbry
 aunt
@@ -2861,7 +2867,6 @@ avocation
 avocet
 avoid
 avoiding
-avolation
 avons
 avorum
 avouch
@@ -2916,6 +2921,7 @@ axolotl
 axon
 axonal
 axseed
+ayes
 ayrshire
 ayudante
 azalea
@@ -11439,6 +11445,7 @@ earwig
 ease
 easel
 easement
+eases
 easier
 easily
 easiness
@@ -12441,7 +12448,6 @@ erwinia
 eryngo
 erysimum
 erysiphe
-esau
 escalade
 escalop
 escapade
@@ -12482,6 +12488,7 @@ esquire
 essay
 essaying
 essayist
+essays
 esse
 esselen
 essen
@@ -12910,7 +12917,6 @@ exuviae
 exuvial
 exwife
 exxpatiate
-eyas
 eyeball
 eyebrow
 eyecup
@@ -18258,6 +18264,7 @@ innocuous
 innominate
 innovate
 innovation
+innovational
 innovative
 innoxious
 innuendo
@@ -18584,6 +18591,7 @@ invisible
 invisibleness
 invisibly
 invitation
+invitational
 invite
 invited
 invitee
@@ -19244,6 +19252,8 @@ kava
 kavass
 kayak
 kayaking
+kayaks
+kays
 kazak
 kazakstan
 kazan
@@ -19926,7 +19936,6 @@ lava
 lavage
 lavaliere
 lavatera
-lavation
 lavatory
 lave
 laved
@@ -28065,6 +28074,7 @@ quaint
 quake
 quaker
 quakeress
+quakes
 quaking
 qualify
 qualis
@@ -28105,6 +28115,7 @@ quatrain
 quatre
 quaver
 quay
+quays
 qubibble
 queasiness
 queasy
@@ -30188,7 +30199,6 @@ sadistic
 sadleria
 sadly
 sadness
-saek
 saepe
 safar
 safari
@@ -30239,6 +30249,7 @@ sais
 sait
 sajama
 sake
+sakes
 saki
 salaam
 salaams
@@ -30499,6 +30510,8 @@ sass
 sassaby
 sassafras
 sassenach
+sasses
+sassy
 sastra
 satan
 satang
@@ -30543,7 +30556,6 @@ sauciness
 saucy
 saudi
 sauerkraut
-sauk
 sauna
 saunter
 saunterer
@@ -30614,6 +30626,7 @@ saxony
 saying
 sayonara
 sayornis
+says
 sazerac
 sbirro
 scab
@@ -30976,6 +30989,7 @@ seapiece
 seaplane
 seaport
 seaquake
+seaquakes
 sear
 search
 searcher
@@ -32228,6 +32242,7 @@ skivvies
 skivvy
 skoal
 skua
+skuas
 skuld
 skulk
 skulking
@@ -33324,6 +33339,8 @@ squaw
 squawbush
 squawk
 squeak
+squeaks
+squeaky
 squeal
 squealer
 squeasy
@@ -33962,7 +33979,6 @@ styracaceae
 styrax
 styrene
 styx
-suae
 suanpan
 suant
 suasible
@@ -36788,7 +36804,6 @@ udon
 ugaritic
 ugliness
 ugly
-ukase
 ukraine
 ukrainian
 ukranian
@@ -37867,7 +37882,6 @@ validated
 validity
 validly
 valise
-vallation
 valley
 valleys
 vallum
@@ -38484,7 +38498,6 @@ volens
 voles
 volgaic
 volgograd
-volitation
 volition
 volitional
 volk
@@ -39567,6 +39580,7 @@ yager
 yahoo
 yahweh
 yakking
+yaks
 yakut
 yammer
 yang
@@ -39605,6 +39619,7 @@ yearly
 yearn
 yearning
 years
+yeas
 yeast
 yeasty
 yeats

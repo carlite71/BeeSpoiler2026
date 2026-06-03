@@ -420,6 +420,7 @@ adaptation
 adapted
 adapter
 adaptive
+adaptivity
 adaptor
 adaxial
 addable
@@ -11372,6 +11373,7 @@ dweller
 dwelling
 dwerger
 dwindle
+dwindled
 dwindling
 dyad
 dyaus
@@ -20389,7 +20391,6 @@ limbs
 limbus
 lime
 limeade
-limed
 limekiln
 limelight
 limenitis
@@ -20430,6 +20431,7 @@ linchpin
 lincomycin
 linctus
 lindane
+linden
 lindera
 line
 lineage
@@ -21047,7 +21049,6 @@ luxor
 luxurious
 luxury
 luzon
-lwei
 lycaena
 lycaeon
 lyceum
@@ -22171,6 +22172,7 @@ midi
 midinette
 midiron
 midland
+midline
 midmonth
 midmost
 midnight
@@ -37924,6 +37926,7 @@ vantage
 vanuatu
 vape
 vapid
+vapidity
 vapidly
 vapor
 vaporer
@@ -38883,7 +38886,6 @@ weight
 weighted
 weights
 weighty
-weile
 weimar
 weimaraner
 weir
@@ -39146,6 +39148,7 @@ widower
 widowhood
 width
 wield
+wielded
 wieldy
 wienie
 wierdo
@@ -39185,6 +39188,7 @@ wile
 wiles
 wilkins
 will
+willed
 willet
 willful
 willfully
@@ -39606,7 +39610,6 @@ yashmak
 yatacban
 yataghan
 yaup
-yavapai
 yawl
 yawn
 yawning

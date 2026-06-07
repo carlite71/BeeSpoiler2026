@@ -456,6 +456,7 @@ adduce
 adduced
 adducent
 adducing
+adduct
 adductor
 adelaide
 adelges
@@ -7579,6 +7580,7 @@ coffeecake
 coffeepot
 coffer
 coffin
+coffining
 cofound
 cofounded
 cogency
@@ -7608,6 +7610,7 @@ cohort
 coif
 coiffeur
 coiffeuse
+coiffing
 coiffure
 coigue
 coil
@@ -14378,7 +14381,6 @@ frigate
 fright
 frigid
 frigidity
-frigorific
 frijole
 frill
 frilled
@@ -36065,6 +36067,7 @@ toward
 towards
 towars
 towel
+towelette
 tower
 towhee
 towhelp
@@ -39204,7 +39207,6 @@ wilson
 wilsonian
 wilt
 wilted
-wilton
 wily
 wimble
 wimp
@@ -39345,7 +39347,6 @@ wittily
 wittiness
 witting
 wittingly
-wittol
 witty
 witworm
 wives

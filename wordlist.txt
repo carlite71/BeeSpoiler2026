@@ -26222,7 +26222,6 @@ phrases
 phrenic
 phrensy
 phrlike
-phrthe
 phrygia
 phryne
 phthirius
@@ -37864,7 +37863,6 @@ vaisya
 vajra
 vakas
 vakass
-vakil
 valance
 valdez
 valdosta

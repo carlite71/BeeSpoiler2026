@@ -294,7 +294,6 @@ ache
 ached
 achenial
 acheron
-acheta
 achieve
 achiever
 achillean
@@ -1813,7 +1812,6 @@ aphasic
 aphasmidia
 apheresis
 aphesis
-aphetic
 aphid
 aphidoidea
 aphis
@@ -5898,6 +5896,7 @@ caper
 capercaillie
 capers
 capful
+capiche
 capillary
 capital
 capitalist
@@ -6560,7 +6559,6 @@ chad
 chador
 chaepau
 chaeronea
-chaeta
 chaetal
 chafe
 chafed
@@ -6633,7 +6631,7 @@ chaos
 chaotic
 chap
 chaparal
-chapatti
+chapati
 chapel
 chaplain
 chaplet
@@ -16695,9 +16693,9 @@ henroost
 henry
 heparin
 hepatic
-hepatica
 hepatitis
 hepatize
+hepcat
 hephaestus
 heptad
 heptane
@@ -26527,13 +26525,11 @@ pitch
 pitched
 pitcher
 pitching
-pitchpipe
 pitchy
 piteous
 pitfall
 pith
 pithead
-pithecia
 pithiness
 pithless
 pithy
@@ -35333,14 +35329,12 @@ thatcher
 thats
 thaw
 thawed
-theaceae
 thearchy
 theater
 theatre
 theatric
 theban
 thebes
-theca
 thee
 theft
 thegoose
@@ -38038,6 +38032,7 @@ velveteen
 velvetleaf
 velvety
 venal
+venally
 venation
 vend
 vendaval

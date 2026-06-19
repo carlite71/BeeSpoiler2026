@@ -10104,6 +10104,7 @@ detortion
 detour
 detox
 detoxed
+detoxified
 detract
 detractor
 detrain
@@ -36080,6 +36081,7 @@ toxemia
 toxic
 toxicity
 toxicologic
+toxified
 toxin
 toxostoma
 toxotes

@@ -947,7 +947,6 @@ alcaeus
 alcazar
 alcedinidae
 alces
-alchemic
 alchemy
 alcidae
 alcohol
@@ -11199,6 +11198,7 @@ drover
 droves
 drown
 drowned
+drowning
 drowse
 drowsy
 drowze
@@ -22211,7 +22211,6 @@ mike
 miking
 milady
 milanese
-milch
 mild
 mildew
 mildewed
@@ -23884,6 +23883,7 @@ nonunion
 nonvenomous
 nonviolent
 nonvoting
+nonword
 nonwork
 nonworker
 noob
@@ -38359,7 +38359,6 @@ virgilia
 virgin
 virginal
 virginity
-virgo
 viribus
 viricidal
 viricide

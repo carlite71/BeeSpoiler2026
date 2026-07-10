@@ -1839,7 +1839,6 @@ apoapsis
 apocarpous
 apocrypha
 apocynaceae
-apodal
 apodeme
 apodictic
 apodidae
@@ -2006,7 +2005,6 @@ araneidal
 arare
 aras
 araucariaceae
-araujia
 arbeit
 arbiter
 arbitrable
@@ -6798,7 +6796,6 @@ chest
 chester
 chestnut
 chetrum
-cheval
 chevaux
 cheviot
 chevron
@@ -15124,7 +15121,6 @@ gills
 gilt
 gimbals
 gimcrack
-gimel
 gimlet
 gimme
 gimmick
@@ -16001,7 +15997,6 @@ gurgling
 gurgoyle
 gurkha
 gurney
-gurry
 guru
 gush
 gusher
@@ -16662,7 +16657,6 @@ helps
 helsinki
 helterskelter
 helve
-helvellaceae
 helxine
 hematite
 hematoma
@@ -16926,6 +16920,7 @@ hitherto
 hitler
 hitless
 hitmen
+hittable
 hitting
 hive
 hived
@@ -25757,6 +25752,7 @@ peers
 peeve
 peeved
 peevish
+peewee
 pegasus
 pegged
 pegging
@@ -26882,7 +26878,6 @@ polk
 polka
 poll
 pollack
-pollard
 pollen
 pollination
 polling
@@ -36879,6 +36874,7 @@ unapparent
 unappealable
 unappendaged
 unapt
+unarm
 unarmed
 unarranged
 unasked
@@ -37824,7 +37820,6 @@ vaccinating
 vaccination
 vaccine
 vaccinium
-vache
 vacillant
 vacillate
 vacuity
@@ -38872,6 +38867,7 @@ weenie
 weeny
 weep
 weeper
+weepie
 weepiness
 weeping
 weepy

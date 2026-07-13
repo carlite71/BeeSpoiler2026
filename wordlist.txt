@@ -2877,6 +2877,7 @@ awake
 awaken
 awakened
 awakening
+awaking
 award
 awarding
 aware
@@ -14872,6 +14873,7 @@ gavialis
 gavidae
 gavotte
 gawk
+gawking
 gawky
 gawp
 gawping
@@ -18274,6 +18276,7 @@ inorganic
 inornate
 inositol
 inpatient
+input
 inquest
 inquietude
 inquinat
@@ -19490,6 +19493,7 @@ knell
 knelled
 knelt
 knesset
+knew
 knickknack
 knickknacks
 knicknack
@@ -20369,7 +20373,6 @@ lilac
 lilangeni
 liliales
 liliidae
-liliputian
 lilliputian
 lilongwe
 lilt
@@ -35723,7 +35726,6 @@ tipster
 tipsy
 tiptoe
 tiptop
-tipuana
 tirade
 tirailleur
 tire
@@ -38619,6 +38621,8 @@ waiving
 wakashan
 wake
 wakeful
+waken
+wakening
 waking
 walapai
 walbiri
@@ -38889,7 +38893,6 @@ weird
 weirdly
 weismannism
 weiss
-weka
 welcher
 welcome
 welcomed

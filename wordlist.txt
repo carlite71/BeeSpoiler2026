@@ -152,7 +152,6 @@ absurd
 absurdum
 abudefduf
 abulic
-abuna
 abundance
 abundant
 abundanti
@@ -1185,6 +1184,7 @@ alum
 alumina
 aluminum
 alumna
+alumnae
 alumni
 alumnus
 alumroot
@@ -2808,6 +2808,7 @@ avahi
 avail
 available
 availed
+availing
 avails
 avalanche
 avaler
@@ -5332,7 +5333,6 @@ bumper
 bumpkin
 bumps
 bumpy
-buna
 bunas
 bunch
 bunched
@@ -6222,7 +6222,6 @@ catadupe
 catahedra
 catalase
 catalectin
-cataleptic
 catalog
 catalonia
 catalpa
@@ -7125,7 +7124,6 @@ citified
 citify
 citing
 citizen
-citlaltepetl
 citric
 citrine
 citron
@@ -11881,6 +11879,7 @@ emceed
 emceeing
 emend
 emended
+emending
 emerald
 emerge
 emergence
@@ -11908,7 +11907,6 @@ emitted
 emitter
 emitting
 emmanthe
-emmanuel
 emmenthal
 emmer
 emollient
@@ -12633,7 +12631,6 @@ even
 evened
 evenhanded
 evening
-evenki
 evenly
 evenness
 evensong
@@ -12674,6 +12671,7 @@ evitable
 evlugate
 evocative
 evoke
+evoking
 evolve
 evolved
 evolvement
@@ -13046,6 +13044,7 @@ fallback
 fallen
 fallibility
 fallible
+fallibly
 falling
 falloff
 falloffs
@@ -14650,7 +14649,6 @@ gala
 galactic
 galangal
 galantine
-galavant
 galaxy
 galbanum
 gale
@@ -14687,6 +14685,7 @@ gallipot
 gallirallus
 gallium
 gallivant
+gallivanting
 gallon
 gallop
 galloping
@@ -14867,7 +14866,6 @@ gauze
 gavage
 gave
 gavel
-gavial
 gavialidae
 gavialis
 gavidae
@@ -15128,13 +15126,11 @@ gimme
 gimmick
 gimmickry
 gimmicks
-gimp
 ginger
 gingerly
 gingerol
 gingery
 gingham
-gingival
 gingivitis
 ginkgo
 ginning
@@ -17762,6 +17758,7 @@ impeach
 impede
 impeded
 impediment
+impeding
 impeditive
 impel
 impelled
@@ -17783,6 +17780,7 @@ impetrate
 impetus
 impiety
 impinge
+impinged
 impingement
 impinging
 impious
@@ -18602,6 +18600,7 @@ invocation
 invoice
 invoiced
 invoke
+invoking
 involution
 involve
 involved
@@ -19543,7 +19542,6 @@ kobus
 kodagu
 kohinoor
 kohl
-koine
 kola
 kolami
 kolkhoz
@@ -19911,7 +19909,6 @@ latter
 latterday
 latterly
 lattice
-latvian
 laud
 laudable
 laudably
@@ -19947,6 +19944,7 @@ laved
 lavement
 lavender
 laver
+laving
 lavish
 lavishly
 lawful
@@ -20753,7 +20751,6 @@ lollop
 lolloping
 lollygag
 loloish
-lomatia
 lombard
 lonas
 londoner
@@ -22870,7 +22867,6 @@ mosslike
 mosstrooper
 mossy
 most
-motacilla
 mote
 motel
 motet
@@ -23234,7 +23230,6 @@ nabalus
 nabbed
 nabbing
 nabob
-nabu
 nacelle
 nacho
 nacre
@@ -26716,7 +26711,6 @@ pliable
 pliancy
 pliant
 pliantly
-plicate
 plie
 plied
 pliers
@@ -34796,7 +34790,6 @@ tantalus
 tantamount
 tantara
 tantas
-tantivy
 tantra
 tantric
 tantrism
@@ -36865,7 +36858,6 @@ unalike
 unallayed
 unallied
 unamazed
-unamenable
 unamended
 unamusing
 unanimity
@@ -36916,7 +36908,6 @@ unbidden
 unbind
 unbinding
 unbitter
-unblamable
 unblended
 unblessed
 unblest
@@ -37340,7 +37331,6 @@ unlucky
 unmade
 unmaimed
 unmake
-unmalleable
 unman
 unmanfully
 unmanly

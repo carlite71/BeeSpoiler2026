@@ -63,7 +63,6 @@ abilities
 ability
 abject
 abjure
-abkari
 ablate
 ablated
 ablation
@@ -267,7 +266,6 @@ acentric
 acephalia
 acequia
 acer
-aceraceae
 acerate
 acerb
 acerbate
@@ -1987,7 +1985,7 @@ aquiline
 aquinas
 aquitaine
 arabesque
-arabic
+arabica
 arability
 arabis
 arabist
@@ -3011,6 +3009,7 @@ backseat
 backset
 backstay
 backtalk
+backtrack
 backup
 backward
 backyard
@@ -3275,7 +3274,6 @@ bargello
 bargeman
 barging
 bariatric
-baric
 baring
 barium
 bark
@@ -3978,6 +3976,7 @@ bibliotics
 bibliotist
 bibos
 bibulous
+bicarb
 bicentric
 bicep
 biceps
@@ -5790,7 +5789,6 @@ canary
 canas
 canasta
 canavalia
-canberra
 cancan
 cancel
 canceled
@@ -6031,10 +6029,8 @@ cargador
 cargo
 carhop
 cariamidae
-carib
 caribbean
 caribou
-caricaceae
 caricature
 caricaturist
 caries
@@ -7082,7 +7078,6 @@ cipher
 ciratrix
 circa
 circadian
-circaea
 circassian
 circe
 circean
@@ -12395,7 +12390,6 @@ ergot
 ergotic
 ergotize
 erica
-ericaceae
 ericales
 erigeron
 erinaceidae
@@ -13445,6 +13439,7 @@ fiddled
 fiddlefaddle
 fiddler
 fiddling
+fiddly
 fidelis
 fidelity
 fides
@@ -13588,7 +13583,6 @@ fink
 finking
 finned
 finnish
-fiord
 fipple
 fire
 firearm
@@ -14410,7 +14404,6 @@ frog
 frogbit
 frogfish
 froghopper
-froid
 frolic
 frolick
 from
@@ -19238,7 +19231,6 @@ karen
 karma
 karmic
 kart
-kartik
 kartikeya
 karyaster
 kasha
@@ -19336,7 +19328,6 @@ khansamah
 khansaman
 khanty
 kharkov
-khaya
 khedive
 khepera
 khmer
@@ -19431,7 +19422,6 @@ kiowa
 kippa
 kipper
 kirghiz
-kiribati
 kirsch
 kirtle
 kishar
@@ -19567,7 +19557,6 @@ koumiss
 kowhai
 kowtow
 kraft
-krait
 krakatau
 kraken
 kranke
@@ -21057,7 +21046,6 @@ lycium
 lycopus
 lycosa
 lyddite
-lydford
 lygaeid
 lygaeidae
 lygus
@@ -24569,11 +24557,11 @@ optical
 optician
 optics
 optima
+optimal
 optime
 optimism
 optimist
 optimistic
-optimmal
 optimum
 opting
 optinionist
@@ -29191,7 +29179,6 @@ requisit
 requisite
 requite
 requited
-rerebrace
 reredos
 rerum
 rerun
@@ -29541,7 +29528,6 @@ rick
 rickets
 rickety
 rickey
-rickrack
 ricksha
 ricochet
 ricordarsi

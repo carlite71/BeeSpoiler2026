@@ -6551,7 +6551,6 @@ chad
 chador
 chaepau
 chaeronea
-chaetal
 chafe
 chafed
 chafeweed
@@ -6755,7 +6754,6 @@ chef
 cheilitis
 cheilosis
 chekhov
-chelate
 chelicera
 cheliceral
 chelifer
@@ -7480,9 +7478,9 @@ coccyx
 coccyzus
 cocentric
 cochair
-cocheleate
 cochelous
 cochlea
+cochleae
 cochlear
 cock
 cockade
@@ -9608,6 +9606,7 @@ deducted
 deductive
 deed
 deeded
+deeding
 deeds
 deem
 deemed
@@ -9716,6 +9715,8 @@ deific
 deified
 deify
 deign
+deigned
+deigning
 deiist
 deism
 deist
@@ -10380,6 +10381,7 @@ dined
 diner
 ding
 dingbat
+dinged
 dinghy
 dinginess
 dinging
@@ -11493,6 +11495,7 @@ echoes
 echoic
 echoing
 echoless
+echolocate
 eclair
 eclat
 eclectic
@@ -15125,6 +15128,7 @@ gingery
 gingham
 gingivitis
 ginkgo
+ginned
 ginning
 ginseng
 ginsling
@@ -15176,6 +15180,7 @@ gladness
 glaive
 glam
 glamor
+glamour
 glance
 glances
 gland
@@ -16359,7 +16364,6 @@ hatbox
 hatch
 hatchback
 hatched
-hatchel
 hatchery
 hatches
 hatchet
@@ -19862,7 +19866,6 @@ lassoo
 last
 lasting
 latch
-latchet
 late
 lately
 laten
@@ -22584,7 +22587,6 @@ molise
 moll
 molles
 mollify
-molluga
 mollusca
 molluscous
 mollusk
@@ -23438,6 +23440,7 @@ needful
 needfulness
 needily
 neediness
+needing
 needle
 needled
 needles

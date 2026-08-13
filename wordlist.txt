@@ -7331,6 +7331,7 @@ clogged
 clogging
 cloisonne
 clomp
+clonal
 clone
 cloned
 clonidine
@@ -21055,7 +21056,6 @@ lying
 lyking
 lymph
 lymphoma
-lynch
 lyncher
 lynching
 lynx

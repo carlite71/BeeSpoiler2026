@@ -3181,6 +3181,7 @@ bane
 baneberry
 baneful
 bang
+banged
 banger
 bangiaceae
 banging
@@ -3559,6 +3560,7 @@ beckley
 beckon
 becks
 becloud
+beclouded
 become
 becripple
 bedarken
@@ -3642,6 +3644,7 @@ befouled
 befriend
 befuddle
 befuddled
+began
 begawd
 begem
 beget
@@ -3943,7 +3946,6 @@ bezant
 bezel
 bezonian
 bhadon
-bhang
 bhisti
 bhutan
 bialy
@@ -7386,6 +7388,7 @@ cloying
 cloyingly
 club
 clubbable
+clubbed
 clubbing
 clubbish
 clubbism
@@ -11166,6 +11169,7 @@ drool
 drooly
 droop
 drooping
+droopy
 drop
 dropkick
 droplet
@@ -16191,6 +16195,7 @@ hamper
 hamster
 hanaper
 hand
+handbag
 handball
 handbell
 handbill
@@ -16446,6 +16451,8 @@ heaavy
 head
 headache
 headband
+headbang
+headbanged
 headboard
 headcheese
 headdress
@@ -26480,7 +26487,6 @@ piracy
 piranha
 pirate
 piratic
-pirogi
 pirogue
 pirouette
 pisa
@@ -26981,7 +26987,6 @@ porcellio
 porch
 porcine
 pore
-porgy
 porifera
 porism
 pork

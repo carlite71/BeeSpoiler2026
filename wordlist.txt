@@ -12630,6 +12630,7 @@ evasively
 evection
 even
 evened
+evener
 evenhanded
 evening
 evenly
@@ -27696,6 +27697,7 @@ provisions
 proviso
 provisory
 provoke
+provolone
 provost
 prow
 prowess
@@ -28205,7 +28207,6 @@ quisque
 quisquis
 quit
 quite
-quito
 quits
 quitter
 quitting
@@ -28221,19 +28222,18 @@ quod
 quoerere
 quoi
 quoin
-quoit
 quoits
 quondam
 quoque
 quorum
 quos
-quot
 quota
 quotation
 quote
 quoth
 quotient
 quoties
+quoting
 quovis
 qurush
 rabbet
@@ -28975,7 +28975,6 @@ relentlessness
 relessee
 relevance
 relevant
-releve
 reliable
 reliance
 reliant
@@ -29168,7 +29167,6 @@ reproduced
 reproducer
 reproof
 reprove
-reprover
 reptantia
 reptile
 reptilia
@@ -29766,6 +29764,7 @@ rollicker
 rolling
 rollingpin
 rollout
+rollover
 rolls
 rolodex
 romance
@@ -38127,11 +38126,9 @@ vermonter
 vernal
 vernier
 vernunft
-vero
 verona
 verpa
 verrazano
-verre
 verrons
 verruca
 verrucose
@@ -38505,7 +38502,6 @@ vomit
 vomitory
 voodoo
 voodooism
-voorlooper
 voortrekker
 vortex
 vosky

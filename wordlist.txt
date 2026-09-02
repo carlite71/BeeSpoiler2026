@@ -3114,6 +3114,7 @@ balky
 ball
 ballad
 ballade
+balladry
 ballast
 ballboy
 ballcock
@@ -3135,6 +3136,7 @@ ballproof
 ballroom
 balls
 ballup
+ballyard
 ballyhoo
 balm
 balmoral
@@ -4002,6 +4004,7 @@ biduous
 biennia
 biennial
 biennially
+biennium
 bienseance
 bier
 biff
@@ -4679,6 +4682,7 @@ booth
 boothose
 bootie
 bootikin
+booting
 bootjack
 bootlace
 bootleg
@@ -5487,11 +5491,13 @@ butternut
 butterweed
 butterwort
 buttery
+butting
 buttock
 buttocks
 button
 buttoned
 buttonhook
+buttoning
 buttress
 buttter
 butyl
@@ -6981,6 +6987,7 @@ chub
 chubby
 chuck
 chuckaluck
+chucked
 chucking
 chuckle
 chuckwalla
@@ -6995,6 +7002,7 @@ chummy
 chump
 chunga
 chunk
+chunked
 chunking
 chunks
 chunky
@@ -10902,6 +10910,7 @@ doorjamb
 doorkeeper
 doorknob
 doorlock
+doorman
 doormat
 doornail
 doorpost
@@ -12198,7 +12207,6 @@ entitle
 entitled
 entitlement
 entity
-entium
 entoloma
 entomb
 entombment
@@ -17284,7 +17292,6 @@ hubbub
 hubby
 hubcap
 hubris
-huck
 huddle
 huddled
 hudson
@@ -17683,7 +17690,6 @@ imagry
 imam
 imaret
 imbecile
-imbeu
 imbibe
 imbibed
 imbreu
@@ -19347,8 +19353,6 @@ khoisan
 khoja
 khoum
 khowar
-khudd
-khuen
 kibble
 kibbutz
 kibbutznik
@@ -21142,7 +21146,6 @@ madman
 madness
 madras
 madrigal
-madrona
 madwoman
 maeandra
 maenad
@@ -22356,6 +22359,7 @@ minuet
 minus
 minute
 minuteman
+minutemen
 minuteness
 minutes
 minutia
@@ -22626,7 +22630,6 @@ monad
 monagne
 monandry
 monarch
-monarda
 monatomic
 monaural
 monday
@@ -22672,6 +22675,7 @@ monocracy
 monocrat
 monoculous
 monocyte
+monodrama
 monodrame
 monogamous
 monogamy
@@ -23046,7 +23050,6 @@ munerate
 mung
 munich
 munificence
-muniment
 muniments
 munition
 munitions
@@ -23349,6 +23352,7 @@ nationalist
 nationality
 nationalization
 nationally
+nationhood
 nations
 native
 nativeness
@@ -23689,7 +23693,6 @@ ninny
 ninos
 ninth
 ninthly
-ninurta
 niobite
 niobium
 nios
@@ -29687,7 +29690,6 @@ riyal
 roach
 road
 roadbed
-roadman
 roadmap
 roadrunner
 roads
@@ -30071,8 +30073,6 @@ rupturewort
 rural
 ruralist
 rurally
-ruritania
-ruritanian
 ruscaceae
 ruscus
 ruse
@@ -36536,6 +36536,7 @@ tubercle
 tuberose
 tuberous
 tubful
+tubing
 tubman
 tubular
 tubulated
@@ -36934,6 +36935,7 @@ unburied
 unbusied
 unbutton
 unbuttoned
+unbuttoning
 uncalled
 uncandid
 uncannily
@@ -36949,6 +36951,7 @@ unceded
 uncensured
 unchain
 unchanging
+uncheck
 unchecked
 uncheery
 uncivil
@@ -38430,6 +38433,7 @@ viverra
 viverridae
 viverrine
 vivid
+vividity
 vividly
 vivificate
 vivified

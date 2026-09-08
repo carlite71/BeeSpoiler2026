@@ -15133,6 +15133,7 @@ gimcrack
 gimlet
 gimme
 gimmick
+gimmicking
 gimmickry
 gimmicks
 ginger
@@ -21411,7 +21412,6 @@ mannerism
 mannerly
 manners
 mannheim
-mannikin
 manning
 mannish
 mannitol
@@ -22202,7 +22202,6 @@ migrant
 migrate
 migrating
 mikado
-mikania
 mike
 miking
 milady
@@ -39611,6 +39610,7 @@ yecch
 yech
 yeleped
 yell
+yelled
 yelling
 yellow
 yelloweyed

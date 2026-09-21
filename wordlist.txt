@@ -1967,6 +1967,7 @@ apus
 aqaba
 aqua
 aqualung
+aquanaut
 aquaplane
 aquarium
 aquarius
@@ -1975,7 +1976,6 @@ aquatic
 aquatics
 aquating
 aquatint
-aquatinta
 aquavit
 aqueduct
 aqueous
@@ -2587,7 +2587,6 @@ atonement
 atonicity
 atop
 atque
-atqui
 atresia
 atria
 atrial
@@ -4295,7 +4294,6 @@ blending
 blenheim
 blenniidae
 blennius
-blenny
 blephilia
 bless
 blessed
@@ -4391,6 +4389,7 @@ blot
 blotch
 blotchy
 blotter
+blotting
 blotto
 blouse
 blow
@@ -4472,6 +4471,7 @@ bobbing
 bobbish
 bobble
 bobbled
+bobbling
 bobbysoxer
 bobcat
 bobolink
@@ -4514,7 +4514,6 @@ boggy
 bogota
 bogtrotter
 bogus
-bogy
 boho
 boidae
 boil
@@ -4552,6 +4551,7 @@ bolos
 bolshy
 bolster
 bolt
+bolting
 boltonia
 bolus
 bomarea
@@ -4769,6 +4769,7 @@ bottle
 bottleful
 bottles
 bottletree
+bottling
 bottom
 bottomed
 bottomless
@@ -7078,7 +7079,6 @@ cingulum
 cinnabar
 cinnamomum
 cinnamon
-cinquain
 cinque
 cioppino
 cipher
@@ -8738,6 +8738,8 @@ crimes
 criminal
 criminis
 crimp
+crimped
+crimping
 crimple
 crimson
 cringe
@@ -11585,7 +11587,6 @@ educe
 educed
 edward
 edwardian
-eelblenny
 eelgrass
 eelspear
 eelworm
@@ -13963,6 +13964,7 @@ foal
 foaled
 foals
 foam
+foamily
 foaming
 foamy
 fobbed
@@ -18289,7 +18291,6 @@ inpatient
 input
 inquest
 inquietude
-inquinat
 inquinate
 inquination
 inquire
@@ -24096,7 +24097,6 @@ nuture
 nuytsia
 nuzzle
 nuzzling
-nybble
 nyctaginia
 nyctanassa
 nyctimene
@@ -24525,13 +24525,13 @@ ophrys
 opiate
 opinator
 opine
+opined
 opiniator
 opining
 opiniodz
 opinion
 opinionate
 opinionatist
-opinioned
 opinionist
 opinions
 opioid
@@ -26416,6 +26416,7 @@ pinery
 pinesap
 pinetum
 pineus
+pinewood
 piney
 pinfish
 pinfold
@@ -26934,11 +26935,11 @@ ponder
 pondera
 pondere
 pondus
-pondweed
 pone
 pong
 pongamia
 pongee
+ponied
 ponlard
 pons
 pontiac
@@ -28042,7 +28043,6 @@ pyxis
 qatar
 qatari
 qfever
-qiana
 qiang
 qindarka
 qoph
@@ -28082,6 +28082,8 @@ quandary
 quandiu
 quando
 quandong
+quant
+quanta
 quantitate
 quantity
 quantum
@@ -28141,7 +28143,6 @@ queue
 queued
 queueing
 queuing
-quia
 quib
 quibble
 quibbler
@@ -28184,10 +28185,8 @@ quincux
 quinine
 quinquefid
 quinquennium
-quinquina
 quinsy
 quint
-quintain
 quintal
 quintet
 quintilian
@@ -28218,7 +28217,6 @@ quixotic
 quiz
 quizzical
 quizzing
-quntain
 quoad
 quod
 quoerere
@@ -37191,13 +37189,14 @@ ungulate
 ungummed
 ungusseted
 unhand
+unhanded
+unhandled
 unhandy
 unhang
 unhanging
 unhappy
 unhardened
 unharness
-unheaded
 unhealed
 unheard
 unheated
@@ -39263,6 +39262,7 @@ wintry
 wintun
 winy
 wipe
+wiped
 wiper
 wiping
 wire

@@ -6353,7 +6353,6 @@ cavern
 cavesson
 caviar
 caviare
-caviidae
 cavil
 caviler
 caviling
@@ -10135,6 +10134,7 @@ developed
 developer
 devex
 devexity
+deviance
 deviant
 deviate
 deviated
@@ -15100,6 +15100,7 @@ giddily
 giddiness
 giddy
 giddyhead
+giddying
 gift
 gifted
 gifting
@@ -26735,6 +26736,7 @@ plotter
 plough
 plover
 plow
+plowable
 plowboy
 plowed
 plowing

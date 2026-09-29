@@ -7020,6 +7020,7 @@ churl
 churlish
 churn
 churning
+churro
 chute
 chutney
 chutzpah
@@ -7040,7 +7041,6 @@ cicerone
 ciceronian
 cichlid
 cichlidae
-cichorium
 cicindelidae
 cicisbeo
 ciconiidae
@@ -14956,7 +14956,6 @@ genesis
 genetic
 geneticist
 genetics
-genetive
 genetous
 genial
 genie
@@ -14964,7 +14963,6 @@ genii
 genista
 genital
 genitalia
-genitive
 genitor
 geniture
 genius
@@ -17259,7 +17257,6 @@ hottie
 hound
 hounds
 hour
-houri
 hourlong
 hourly
 hours
@@ -18578,6 +18575,7 @@ inveigle
 inveigling
 invent
 invented
+inventing
 invention
 inventive
 inventively
@@ -22954,6 +22952,7 @@ mpriser
 msasa
 much
 muchness
+mucho
 muchos
 mucinous
 muck
@@ -22962,7 +22961,6 @@ muckrake
 muckraker
 muckworm
 mucky
-mucor
 mucoraceae
 mucous
 muculent
@@ -23807,6 +23805,7 @@ nonclinical
 noncom
 noncombatant
 noncombining
+nonconductor
 nonconscious
 noncurrent
 nondairy
@@ -24338,6 +24337,7 @@ oftenness
 oftness
 ofttimes
 ogee
+ogive
 ogle
 ogled
 ogler
@@ -37982,7 +37982,6 @@ vegetal
 vegetate
 vegetated
 vegetative
-vegetive
 vegged
 veggie
 vegging
@@ -37996,7 +37995,7 @@ veiled
 veiling
 vein
 veined
-veinging
+veining
 veins
 veiny
 velar
@@ -38056,6 +38055,7 @@ vented
 venter
 venthole
 ventilate
+venting
 ventose
 ventpeg
 ventral
@@ -38196,7 +38196,9 @@ veterinarian
 veteris
 veto
 vetoed
+vetoing
 vetted
+vetting
 vettura
 vexed
 vexillum

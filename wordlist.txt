@@ -1534,7 +1534,6 @@ angulate
 angusta
 anhedonia
 anhelose
-anhima
 anhimidae
 anhingidae
 anicteric
@@ -5839,7 +5838,6 @@ cannelloni
 cannery
 cannes
 cannibal
-cannibalic
 cannikin
 cannily
 canning
@@ -5895,6 +5893,7 @@ capacitance
 capacitor
 capacity
 cape
+caped
 capellini
 caper
 capercaillie
@@ -6767,7 +6766,6 @@ cheliceral
 chelifer
 chemakum
 chemical
-chemin
 chemise
 chemist
 chemo
@@ -6838,7 +6836,6 @@ chiffon
 chigetai
 chignon
 chihuahua
-chilblain
 child
 childhood
 childish
@@ -11529,7 +11526,6 @@ economics
 economize
 economy
 ecosystem
-ecotone
 ecrasez
 ecstacy
 ecstasis
@@ -21411,7 +21407,6 @@ mannered
 mannerism
 mannerly
 manners
-mannheim
 manning
 mannish
 mannitol
@@ -21769,7 +21764,6 @@ meaty
 mecaenas
 mecca
 mechanic
-mechanician
 meclizine
 meconium
 medaglia
@@ -25225,7 +25219,7 @@ pancaked
 pancetta
 pancreas
 panda
-pandanaceae
+pandan
 pandanales
 pandanus
 pandect

@@ -18221,6 +18221,7 @@ inhumane
 inhumanum
 inhume
 inimical
+inimically
 inimicorum
 iniquitous
 iniquity
@@ -21342,6 +21343,7 @@ managing
 manakin
 manatee
 manawydan
+mancala
 manchu
 mancunian
 mandala
@@ -21386,6 +21388,7 @@ maniacal
 maniacally
 manibus
 manic
+manically
 manicotti
 manidae
 maniere

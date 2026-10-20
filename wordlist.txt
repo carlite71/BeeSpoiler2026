@@ -5421,6 +5421,7 @@ burnout
 burnt
 burnup
 burp
+burping
 burr
 burrata
 burrfish
@@ -9887,7 +9888,7 @@ dentaria
 dented
 dentes
 denticle
-dentine
+dentin
 dentist
 dentition
 dents
@@ -10340,6 +10341,7 @@ digress
 digressive
 diis
 dijinn
+dijinni
 dike
 dilapidate
 dilapidated
@@ -10392,6 +10394,7 @@ dinar
 dine
 dined
 diner
+dinette
 ding
 dingbat
 dinged
@@ -12114,6 +12117,7 @@ enigma
 eniwetok
 enjambment
 enjoin
+enjoined
 enjoinment
 enjoy
 enjoying
@@ -17984,6 +17988,7 @@ indemnify
 indemnity
 indent
 indentation
+indented
 indenture
 independence
 independent
@@ -18025,7 +18030,6 @@ indisposition
 indistinct
 indistinction
 indistinctness
-indite
 indium
 individual
 individuity
@@ -34723,7 +34727,6 @@ tamarind
 tamarisk
 tamarix
 tamasha
-tambala
 tambour
 tame
 tamed
@@ -35664,7 +35667,7 @@ tinct
 tincture
 tinder
 tine
-tineid
+tined
 tineidae
 tineoidea
 tineola
@@ -36539,7 +36542,6 @@ tuberose
 tuberous
 tubful
 tubing
-tubman
 tubular
 tubulated
 tubule
@@ -38910,7 +38912,6 @@ welllaid
 wellmade
 wellmeant
 wellness
-wellnigh
 wellspent
 welltasted
 welltimed
@@ -38970,6 +38971,7 @@ wheel
 wheelbase
 wheeled
 wheeler
+wheelie
 wheeling
 wheelless
 wheelman
@@ -39007,7 +39009,6 @@ whether
 whetstone
 whetted
 whew
-whewell
 whey
 which
 whif
@@ -39029,6 +39030,8 @@ whinchat
 whine
 whined
 whiner
+whinge
+whingeing
 whinging
 whining
 whiningly

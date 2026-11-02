@@ -790,7 +790,6 @@ aglaonema
 agleam
 aglet
 aglow
-agnatha
 agnation
 agnition
 agnomen
@@ -2537,7 +2536,6 @@ asylum
 asymmetry
 asynergy
 asystole
-ataghan
 ataraxia
 atavism
 atavist
@@ -2604,7 +2602,6 @@ attack
 attacked
 attacker
 attacking
-attaghan
 attagirl
 attain
 attainability
@@ -3147,7 +3144,6 @@ balsam
 balsamic
 balzac
 balzacian
-bambino
 bamboo
 bamboozle
 bambusa
@@ -6256,6 +6252,7 @@ catawba
 catbird
 catcall
 catch
+catchable
 catchall
 catcher
 catches
@@ -10132,7 +10129,6 @@ deveining
 develop
 developed
 developer
-devex
 devexity
 deviance
 deviant
@@ -11478,6 +11474,7 @@ eaten
 eater
 eating
 eave
+eaved
 eaves
 ebauche
 ebbed
@@ -12716,6 +12713,7 @@ exaugural
 excavate
 excavated
 exceed
+exceeded
 exceeding
 excel
 excellence
@@ -22668,6 +22666,7 @@ monkish
 monkshood
 mono
 monoamine
+monobob
 monocarp
 monochord
 monochrome

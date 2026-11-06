@@ -2996,6 +2996,7 @@ backhoe
 backing
 backlash
 backless
+backlit
 backlog
 backlot
 backpack
@@ -7280,6 +7281,7 @@ cliche
 cliched
 click
 clickable
+clickbait
 clicked
 client
 clientele

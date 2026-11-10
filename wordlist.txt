@@ -454,11 +454,9 @@ adducent
 adducing
 adduct
 adductor
-adelaide
 adelges
 adelgid
 adelgidae
-adelie
 adelig
 ademptum
 adenanthera
@@ -581,7 +579,6 @@ adze
 adzooks
 aecium
 aedes
-aedile
 aedipus
 aegiceras
 aegis
@@ -842,6 +839,7 @@ aigrette
 aiguille
 aigulet
 aikido
+ailed
 aileron
 ailing
 ailment
@@ -2564,6 +2562,7 @@ athetosis
 athirst
 athlete
 athletic
+athrob
 athwart
 atilt
 atkins
@@ -9262,6 +9261,7 @@ dale
 dalesman
 dallas
 dalliance
+dallied
 dallier
 dallisgrass
 dally
@@ -10205,6 +10205,7 @@ dialect
 dialectal
 dialectic
 dialectical
+dialed
 dialing
 dialog
 dialysis
@@ -16950,7 +16951,6 @@ hoarseness
 hoary
 hoatzin
 hoax
-hobart
 hobbit
 hobble
 hobbledehoy
@@ -19683,6 +19683,7 @@ lacuna
 lacuslake
 lacy
 ladder
+laddie
 lade
 laded
 laden
@@ -20378,7 +20379,6 @@ likuta
 lilac
 lilangeni
 liliales
-liliidae
 lilliputian
 lilongwe
 lilt

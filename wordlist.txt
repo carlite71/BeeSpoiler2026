@@ -13603,7 +13603,6 @@ fink
 finking
 finned
 finnish
-fipple
 fire
 firearm
 firearms
@@ -13850,8 +13849,10 @@ flint
 flinty
 flip
 flipflop
+flipflopped
 flipflopping
 flippant
+flipped
 flipper
 flipping
 flirt

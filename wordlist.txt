@@ -5575,7 +5575,6 @@ cacodylic
 cacoepy
 cacoethes
 caconym
-cacoopy
 cacophony
 cacti
 cactus
@@ -8210,6 +8209,7 @@ cootie
 copacetic
 copaiba
 coparcener
+copay
 cope
 coped
 copehan
@@ -26797,7 +26797,6 @@ plywood
 pness
 poach
 poacher
-poachy
 poblano
 pobreza
 pochard

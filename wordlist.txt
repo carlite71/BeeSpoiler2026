@@ -6358,7 +6358,6 @@ cavilling
 caving
 cavity
 cavort
-cavy
 cawed
 cayenne
 cayman
@@ -8611,6 +8610,7 @@ crapaud
 crape
 crapek
 crappie
+crappy
 craps
 cras
 crash
@@ -11354,7 +11354,6 @@ duress
 durham
 durian
 during
-durio
 durity
 durmast
 durum
@@ -11669,8 +11668,6 @@ egression
 egret
 egretta
 egurgitate
-egypt
-egyptology
 eider
 eiderdown
 eidetic
@@ -11808,6 +11805,7 @@ elopidae
 elops
 eloquence
 eloquent
+elote
 elre
 else
 elsewhere
@@ -15934,7 +15932,6 @@ guided
 guideless
 guideline
 guiding
-guidon
 guild
 guilder
 guildhall
@@ -17248,6 +17245,7 @@ hotdogging
 hotel
 hotelier
 hotfoot
+hothead
 hotheaded
 hothouse
 hotline
@@ -20810,6 +20808,7 @@ loop
 looped
 loophole
 loopholed
+loopily
 looping
 loopy
 loose
@@ -22574,7 +22573,6 @@ moire
 moist
 moisten
 moistness
-mojarra
 mojave
 mokes
 mokulu
@@ -26190,6 +26188,7 @@ phonebook
 phoneme
 phonic
 phonics
+phonily
 phoning
 phono
 phonograph
@@ -29929,6 +29928,7 @@ roundedness
 roundel
 rounder
 rounders
+rounding
 roundly
 roundness
 rounds
@@ -36772,6 +36772,7 @@ typify
 typing
 typist
 typo
+typology
 tyrannid
 tyrannis
 tyrannus
@@ -37808,7 +37809,6 @@ vacated
 vacating
 vacation
 vacatur
-vaccaria
 vaccinate
 vaccinating
 vaccination
